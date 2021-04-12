@@ -1,0 +1,24 @@
+.todo-div {
+    background-color: coral;
+    width: 350px;
+    height: 40px;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    font-size: 1.5rem;
+}
+
+.delete {
+    font-size: x-large;
+    color: rgb(191, 255, 0);
+}
+.delete:hover {
+    color: rgb(142, 187, 7);
+}
+
+.true {
+    background-color: blue;
+}
+

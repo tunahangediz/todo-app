@@ -1,0 +1,26 @@
+.todo-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.form-controls {
+    display: flex;
+    flex-direction: column;
+}
+.form {
+    display: flex;
+}
+.todo {
+    width: 350px;
+    height: 40px;
+    font-size: 1rem;
+    border: none;
+}
+.button {
+    height: 40px;
+    align-self: flex-end;
+    background-color: rgb(191, 255, 0);
+    border: none;
+    border-left: 1px black solid;
+    padding: 0 5px;
+}
